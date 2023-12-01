@@ -1,0 +1,12 @@
+[submodule "SRP/chinese-electra-base-discriminator"]
+	path = SRP/chinese-electra-base-discriminator
+	url = https://huggingface.co/hfl/chinese-electra-base-discriminator
+[submodule "SRP/evaluate"]
+	path = SRP/evaluate
+	url = https://github.com/huggingface/evaluate.git
+[submodule "SRP/bert-base-cased"]
+	path = SRP/bert-base-cased
+	url = https://huggingface.co/bert-base-cased
+[submodule "SRP/gpt2"]
+	path = SRP/gpt2
+	url = https://huggingface.co/gpt2
