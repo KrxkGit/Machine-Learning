@@ -1,3 +1,6 @@
 *.bin
 output
 Params
+Output
+*.7z
+*.gz
